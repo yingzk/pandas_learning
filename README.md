@@ -1,2 +1,2 @@
-# pandaslearning
+# pandas learning
 pandas learning
